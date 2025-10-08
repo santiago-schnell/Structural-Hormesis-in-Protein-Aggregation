@@ -2,9 +2,7 @@
 
 The repository contains the core three Python scripts used for the numerical simulations of paper:
 
-Abhishek Mallela, Santiago Schnell (2025) Structural hormesis in protein aggregation: A minimal mechanistic model *bioRxiv*
-
-The scrips are not well-commented; this will be done in the future.
+Abhishek Mallela, Santiago Schnell (2025) Structural hormesis in protein aggregation: A minimal mechanistic model *bioRxiv* DOI: https://doi.org/10.1101/2025.10.07.681066
 
 If you have any questions, please contact:
 
